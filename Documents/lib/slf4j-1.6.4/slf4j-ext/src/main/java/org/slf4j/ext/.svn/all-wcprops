@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-ext/src/main/java/org/slf4j/ext
+END
+XLoggerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-ext/src/main/java/org/slf4j/ext/XLoggerFactory.java
+END
+EventException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-ext/src/main/java/org/slf4j/ext/EventException.java
+END
+LoggerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-ext/src/main/java/org/slf4j/ext/LoggerWrapper.java
+END
+EventLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-ext/src/main/java/org/slf4j/ext/EventLogger.java
+END
+MDCStrLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-ext/src/main/java/org/slf4j/ext/MDCStrLookup.java
+END
+XLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-ext/src/main/java/org/slf4j/ext/XLogger.java
+END
+EventData.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-ext/src/main/java/org/slf4j/ext/EventData.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-ext/src/main/java/org/slf4j/ext/package.html
+END

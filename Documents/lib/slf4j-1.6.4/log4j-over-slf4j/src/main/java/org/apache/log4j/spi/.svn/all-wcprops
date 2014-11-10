@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/log4j-over-slf4j/src/main/java/org/apache/log4j/spi
+END
+LoggerRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/log4j-over-slf4j/src/main/java/org/apache/log4j/spi/LoggerRepository.java
+END
+Configurator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/log4j-over-slf4j/src/main/java/org/apache/log4j/spi/Configurator.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/log4j-over-slf4j/src/main/java/org/apache/log4j/spi/Filter.java
+END
+HierarchyEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/log4j-over-slf4j/src/main/java/org/apache/log4j/spi/HierarchyEventListener.java
+END
+ErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/log4j-over-slf4j/src/main/java/org/apache/log4j/spi/ErrorHandler.java
+END
+LoggerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/log4j-over-slf4j/src/main/java/org/apache/log4j/spi/LoggerFactory.java
+END
+LoggingEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/log4j-over-slf4j/src/main/java/org/apache/log4j/spi/LoggingEvent.java
+END
+Layout.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/log4j-over-slf4j/src/main/java/org/apache/log4j/spi/Layout.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-api/src/main/java/org/slf4j
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-api/src/main/java/org/slf4j/Logger.java
+END
+ILoggerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-api/src/main/java/org/slf4j/ILoggerFactory.java
+END
+Marker.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-api/src/main/java/org/slf4j/Marker.java
+END
+IMarkerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-api/src/main/java/org/slf4j/IMarkerFactory.java
+END
+MDC.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-api/src/main/java/org/slf4j/MDC.java
+END
+LoggerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-api/src/main/java/org/slf4j/LoggerFactory.java
+END
+MarkerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-api/src/main/java/org/slf4j/MarkerFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-api/src/main/java/org/slf4j/package.html
+END
