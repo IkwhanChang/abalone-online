@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-migrator/src/main/java/org/slf4j/migrator/internal
+END
+MigratorFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-migrator/src/main/java/org/slf4j/migrator/internal/MigratorFrame.java
+END
+ConversionTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-migrator/src/main/java/org/slf4j/migrator/internal/ConversionTask.java
+END
+ProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-migrator/src/main/java/org/slf4j/migrator/internal/ProgressListener.java
+END
+ProgressListenerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-migrator/src/main/java/org/slf4j/migrator/internal/ProgressListenerImpl.java
+END
