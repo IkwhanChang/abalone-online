@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-api/src/main/java/org/slf4j/spi
+END
+MDCAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-api/src/main/java/org/slf4j/spi/MDCAdapter.java
+END
+LocationAwareLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-api/src/main/java/org/slf4j/spi/LocationAwareLogger.java
+END
+LoggerFactoryBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-api/src/main/java/org/slf4j/spi/LoggerFactoryBinder.java
+END
+MarkerFactoryBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-api/src/main/java/org/slf4j/spi/MarkerFactoryBinder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/slf4j-api/src/main/java/org/slf4j/spi/package.html
+END

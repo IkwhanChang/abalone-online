@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/site/apidocs/org/apache/commons/logging
+END
+Log.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/site/apidocs/org/apache/commons/logging/Log.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/site/apidocs/org/apache/commons/logging/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/site/apidocs/org/apache/commons/logging/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/site/apidocs/org/apache/commons/logging/package-summary.html
+END
+LogConfigurationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/site/apidocs/org/apache/commons/logging/LogConfigurationException.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/site/apidocs/org/apache/commons/logging/package-tree.html
+END
+LogFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/AVALON_ONLINE/!svn/ver/61/AVALON_PROJECT/Documents/lib/slf4j-1.6.4/site/apidocs/org/apache/commons/logging/LogFactory.html
+END

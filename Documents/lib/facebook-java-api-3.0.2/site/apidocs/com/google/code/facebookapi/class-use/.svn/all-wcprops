@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use
+END
+AssociationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/AssociationType.html
+END
+IFacebookRestClient.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/IFacebookRestClient.html
+END
+ProfileInfoField.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/ProfileInfoField.html
+END
+XMLTestUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/XMLTestUtils.html
+END
+FacebookXmlRestClientBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/FacebookXmlRestClientBase.html
+END
+MarketplaceListing.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/MarketplaceListing.html
+END
+MarketListingSubcategory.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/MarketListingSubcategory.html
+END
+PhotoTag.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/PhotoTag.html
+END
+AssociationInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/AssociationInfo.html
+END
+FacebookSignatureUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/FacebookSignatureUtil.html
+END
+AttachmentProperty.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/AttachmentProperty.html
+END
+FacebookJsonRestClient.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/FacebookJsonRestClient.html
+END
+PageProfileField.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/PageProfileField.html
+END
+ToJsonObject.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/ToJsonObject.html
+END
+FacebookMethod.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/FacebookMethod.html
+END
+BaseAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/BaseAdapter.html
+END
+BasicClientHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/BasicClientHelper.html
+END
+Metric.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/Metric.html
+END
+ErrorCode.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/ErrorCode.html
+END
+ApplicationPropertySet.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/ApplicationPropertySet.html
+END
+Permission.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/Permission.html
+END
+AttachmentMediaImage.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/AttachmentMediaImage.html
+END
+XmlHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/XmlHelper.html
+END
+ExtensibleClient.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/ExtensibleClient.html
+END
+AttachmentMediaFlash.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/AttachmentMediaFlash.html
+END
+ApplicationProperty.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/ApplicationProperty.html
+END
+AttachmentMediaMP3.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/AttachmentMediaMP3.html
+END
+FacebookApiUrls.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/FacebookApiUrls.html
+END
+JsonHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/JsonHelper.html
+END
+ToJsonArray.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/ToJsonArray.html
+END
+FacebookJaxbRestClient.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/FacebookJaxbRestClient.html
+END
+FeedUserPhoto.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/FeedUserPhoto.html
+END
+Pairs.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/Pairs.html
+END
+FacebookExtendedPerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/FacebookExtendedPerm.html
+END
+AttachmentMediaVideo.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/AttachmentMediaVideo.html
+END
+TemplatizedAction.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/TemplatizedAction.html
+END
+FacebookWebRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/FacebookWebRequest.html
+END
+MarketListingStatus.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/MarketListingStatus.html
+END
+ProfileFieldItem.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/ProfileFieldItem.html
+END
+IFacebookMethod.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/IFacebookMethod.html
+END
+BundleActionLink.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/BundleActionLink.html
+END
+FacebookXmlRestClient.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/FacebookXmlRestClient.html
+END
+AllocationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/AllocationType.html
+END
+SpecificReturnTypeAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/SpecificReturnTypeAdapter.html
+END
+AttachmentMedia.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/AttachmentMedia.html
+END
+Attachment.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/Attachment.html
+END
+FacebookJsonRestClientBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/FacebookJsonRestClientBase.html
+END
+IPair.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/IPair.html
+END
+ProfileField.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/ProfileField.html
+END
+FeedImage.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/FeedImage.html
+END
+MarketListingCategory.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/MarketListingCategory.html
+END
+MarketListing.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/MarketListing.html
+END
+IFeedImage.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/IFeedImage.html
+END
+BasicClient.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/BasicClient.html
+END
+PropertyType.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/PropertyType.html
+END
+FacebookException.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/FacebookException.html
+END
+FacebookParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/FacebookParam.html
+END
+FacebookNamespaceContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/FacebookNamespaceContext.html
+END
+Pair.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/Pair.html
+END
+FacebookJaxbRestClientBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/FacebookJaxbRestClientBase.html
+END
+BundleStoryTemplate.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/BundleStoryTemplate.html
+END
+FeedFacebookPhoto.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/FeedFacebookPhoto.html
+END
+FacebookWebappHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/FacebookWebappHelper.html
+END
+FacebookReturnType.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/AVALON_ONLINE/!svn/ver/58/AVALON_PROJECT/Documents/lib/facebook-java-api-3.0.2/site/apidocs/com/google/code/facebookapi/class-use/FacebookReturnType.html
+END
