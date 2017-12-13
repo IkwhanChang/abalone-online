@@ -1,5 +1,5 @@
 # Abalone Online
-##Online Java version of Abalone board game
+Online Java version of Abalone board game
 
 ## Description
 - Avalone Online (https://en.wikipedia.org/wiki/Abalone_(board_game) ) is one of a kind of board game. Our team became interested in the simple, addictive logic of the game and decided to develop it in 2D. We decided to create a multi-play board game that provides a match-up mode like regular online games such as Battle.net. We have developed the game in a genre called SNG (social network game) by combining social networking features, especially Facebook login and social functions, according to recent trends.
