@@ -20,6 +20,7 @@ The biggest feature of our program is the Facebook interface. In order to integr
 
 ![Facebook OAuth](http://tungwaiyip.info/2011/img/facebook_oauth_authentication.png)
  
+
 Above is the screen which registered our Avalon online. And the process for the whole user is done by token, which can be given token by Facebook OAuth.
  
 As shown in the figure above, to connect OAuth, you have to go through the session through Facebook server. To do this, you need to use the browser directly or indirectly. To do this, you must use the HttpClient provided by Apache.
